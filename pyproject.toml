@@ -11,6 +11,8 @@ python = "^3.12"
 jupyter = "^1.0.0"
 pandas = "^2.2.2"
 pyarrow = "^15.0.2"
+tdqm = "^0.0.1"
+plotly = "^5.20.0"
 
 
 [build-system]
